@@ -6,6 +6,7 @@ call vundle#begin()
 "plugin list
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
+Plugin 'kien/ctrlp.vim'
 "tree form file system
 call vundle#end()
 filetype plugin indent on
