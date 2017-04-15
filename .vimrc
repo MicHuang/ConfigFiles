@@ -8,8 +8,8 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'kien/ctrlp.vim'
 Plugin 'vim-scripts/HLPSL'
-Plugin 'Valloric/YouCompleteMe'
-Plugin 'SirVer/ultisnips'
+"Plugin 'Valloric/YouCompleteMe'
+"Plugin 'SirVer/ultisnips'
 Plugin 'vim-airline/vim-airline'
 "tree form file system
 call vundle#end()
