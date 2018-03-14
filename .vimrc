@@ -7,7 +7,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'kien/ctrlp.vim'
-Plugin 'vim-scripts/HLPSL'
+"Plugin 'vim-scripts/HLPSL'
 "Plugin 'Valloric/YouCompleteMe'
 "Plugin 'SirVer/ultisnips'
 Plugin 'vim-airline/vim-airline'
