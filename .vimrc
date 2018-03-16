@@ -12,6 +12,9 @@ Plugin 'kien/ctrlp.vim'
 "Plugin 'SirVer/ultisnips'
 Plugin 'vim-airline/vim-airline'
 Plugin 'nginx.vim'
+"Markdown
+Plugin 'godlygeek/tabular'
+Plugin 'plasticboy/vim-markdown'
 "tree form file system
 call vundle#end()
 filetype plugin indent on
